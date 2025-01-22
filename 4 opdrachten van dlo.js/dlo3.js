@@ -1,11 +1,11 @@
 let nummer = 2;
 
 function raad() {
-    let raad = parseInt(prompt("raad een nummer flikker "));
+    let raad = parseInt(prompt("raad een nummer  "));
     if (raad === nummer) {
-        alert(" goed jij ben fucking slim");
+        alert(" goed jij ben  slim");
     } else {
-        alert(" fout jij bent kut dom" + nummer);
+        alert(" fout" + nummer);
     }
 }
 
