@@ -1,0 +1,41 @@
+
+.login {
+    background-color: blue;
+    align-items: center;
+    text-align: center;
+    padding: 10px;
+    margin: 80px;
+    width:  400px;
+    border-radius: 15px;
+
+    
+
+}
+
+.login h2 {
+    color: white;
+    margin-bottom: 20px;
+    text-align: center;
+
+}
+
+.login input {
+    width: 80%;
+    padding: 10px;
+    margin: 10px 0 ;
+    border-radius: solid #ccc;
+    border-radius: 5px;
+}
+
+.login button {
+   
+     padding: 10px;
+     background-color: azure;
+     border: none;
+     border-radius: 4px;
+}
+
+.message {
+    text-align: center;
+    margin-top: 20px;
+  }
